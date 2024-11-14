@@ -28,8 +28,8 @@ const SectionEight = () => {
           developments.
         </p>
       </div>
-      <div className="flex mb-10 w-full flex-wrap lg:flex-nowrap justify-center mt-10 gap-10">
-        <div className="w-[80%] md:w-1/3 relative pb-7 hover:scale-105 cursor-pointer transition-all duration-300 rounded-lg overflow-hidden">
+      <div className="flex mb-10 w-full flex-wrap  lg:flex-nowrap justify-center mt-10 gap-10">
+        <div className="w-[80%] md:w-1/3 relative pb-7 bg-[#09091b] hover:scale-105 cursor-pointer transition-all duration-300 rounded-lg overflow-hidden">
           <div className="w-full relative">
             <img src={sectioneifhtbg} alt="bg" className="absolute -z-10" />
             <img
@@ -67,7 +67,7 @@ const SectionEight = () => {
           <div className="absolute bottom-1 left-[28px] h-[.5px]  w-[80%] bg-custom-radial opacity-55" />
         </div>
 
-        <div className="flex flex-col justify-between w-[80%] hover:scale-105 cursor-pointer transition-all duration-300 md:w-1/3 relative pb-7 rounded-lg overflow-hidden ">
+        <div className="flex flex-col justify-between bg-[#09091b] w-[80%] hover:scale-105 cursor-pointer transition-all duration-300 md:w-1/3 relative pb-7 rounded-lg overflow-hidden ">
           <div className="w-full relative">
             <img src={sectioneifhtbg} alt="bg" className="absolute -z-10" />
             <img
@@ -84,7 +84,7 @@ const SectionEight = () => {
               <h4 className="pl-3">Oct 21, 2024</h4>
             </div>
             <p className="text-base font-medium mt-3">
-              How Abuzar’s Education Shaped His AI Career
+              How hogan Education Shaped His AI Career
             </p>
           </div>
           <div className="w-full flex justify-center mt-4">
