@@ -50,7 +50,7 @@ const SectionThree = () => {
         }`}
       >
         <p className="text-center text-base text-[#BABCC6] sm:px-0 px-3  sm:max-w-[523px]">
-          At BlueBillionaire.ai, we believe that our success is deeply
+          At [your company name], we believe that our success is deeply
           intertwined with the effectiveness of our processes. Our streamlined
           approach ensures that your projects are executed with precision,
           efficiency, and a focus on delivering exceptional results.

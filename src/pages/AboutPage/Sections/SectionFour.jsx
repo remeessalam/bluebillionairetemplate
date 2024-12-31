@@ -11,7 +11,7 @@ const SectionFour = () => {
       >
         <ul className="flex flex-col gap-4 text-[#BABCC6] font-normal text-base w-[90%] sm:w-[70%]">
           <li>
-            · BlueBillionaire.ai stands at the forefront of technological
+            · [your company name] stands at the forefront of technological
             advancement, serving as a beacon of innovation in the world of
             data-driven solutions. We are not merely a technology company; we
             are visionaries committed to redefining the landscape of business
@@ -29,7 +29,7 @@ const SectionFour = () => {
             an ever-evolving digital ecosystem.
           </li>
           <li>
-            · At BlueBillionaire.ai, we understand that the journey to success
+            · At [your company name], we understand that the journey to success
             is not a solitary endeavour. Our philosophy revolves around
             partnership and collaboration. We believe that the best outcomes are
             achieved when we work side by side with our clients, immersing

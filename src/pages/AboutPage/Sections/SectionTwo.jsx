@@ -51,7 +51,7 @@ const SectionTwo = () => {
                 <h4 className="text-2xl font-medium mt-4">Innovation</h4>
               </div>
               <p className="text-base font-normal mt-2 text-[#BABCC6] max-w-[318px]">
-                At BlueBillionaire.ai, we constantly push the boundaries of AI
+                At [your company name], we constantly push the boundaries of AI
                 and technology to create groundbreaking solutions. Innovation is
                 at the heart of everything we do, enabling us to stay ahead in a
                 rapidly evolving digital world.

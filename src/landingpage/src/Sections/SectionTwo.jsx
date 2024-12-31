@@ -73,8 +73,8 @@ const SectionTwo = ({ page, scrollToSection, contactRef }) => {
           </h3>
           <p className="text-xl font-medium text-white">
             {page === "web"
-              ? "At BlueBillionaire.ai, we are passionately committed to deliveringvpremium website design and exceptional services that exemplify our dedication to quality and excellence."
-              : "At BlueBillionaire.ai, we are dedicated to crafting high-quality apps that combine stunning design with robust functionality. Our passion for excellence and innovation drives us to build seamless, responsive mobile experiences that raise industry standards."}
+              ? "At [your company name], we are passionately committed to deliveringvpremium website design and exceptional services that exemplify our dedication to quality and excellence."
+              : "At [your company name], we are dedicated to crafting high-quality apps that combine stunning design with robust functionality. Our passion for excellence and innovation drives us to build seamless, responsive mobile experiences that raise industry standards."}
           </p>
           <p className="text-sm font-normal text-[#BABCC6] mb-8">
             {page === "web"
@@ -124,8 +124,8 @@ const SectionTwo = ({ page, scrollToSection, contactRef }) => {
         <div className="lg:w-1/2 md:w-3/4 w-full md:px-0 px-2 flex justify-end mt-4 lg:mt-0">
           <p className="text-sm font-normal text-center lg:text-start text-[#BABCC6]">
             {page === "web"
-              ? "  At BlueBillionaire.ai, we are dedicated to transforming ideas into  exceptional digital experiences. Our diverse range of services spans           game development, blockchain solutions, augmented and virtual           reality (AR/VR), custom software development, IT infrastructure           services, cybersecurity solutions, mobile app development, and full           -stack web development. Each service is crafted with precision and           creativity, designed to meet the unique needs of our clients while           pushing the boundaries of technology.                        "
-              : "  At BlueBillionaire.ai, we are dedicated to transforming ideas into  exceptional digital experiences. Our diverse range of services spans           game development, blockchain solutions, augmented and virtual           reality (AR/VR), custom software development, IT infrastructure           services, cybersecurity solutions, mobile app development, and full           -stack web development. Each service is crafted with precision and           creativity, designed to meet the unique needs of our clients while           pushing the boundaries of technology.                        "}
+              ? "  At [your company name], we are dedicated to transforming ideas into  exceptional digital experiences. Our diverse range of services spans           game development, blockchain solutions, augmented and virtual           reality (AR/VR), custom software development, IT infrastructure           services, cybersecurity solutions, mobile app development, and full           -stack web development. Each service is crafted with precision and           creativity, designed to meet the unique needs of our clients while           pushing the boundaries of technology.                        "
+              : "  At [your company name], we are dedicated to transforming ideas into  exceptional digital experiences. Our diverse range of services spans           game development, blockchain solutions, augmented and virtual           reality (AR/VR), custom software development, IT infrastructure           services, cybersecurity solutions, mobile app development, and full           -stack web development. Each service is crafted with precision and           creativity, designed to meet the unique needs of our clients while           pushing the boundaries of technology.                        "}
           </p>
         </div>
       </div>

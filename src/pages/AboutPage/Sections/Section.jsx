@@ -73,7 +73,7 @@ const Section = () => {
                 : "translate-y-20 opacity-0"
             }`}
           >
-            BlueBillionaire.ai is a leading innovator in AI and data-driven
+            [your company name] is a leading innovator in AI and data-driven
             business solutions, empowering companies to thrive in the digital
             era. We specialize in crafting tailored, transformative strategies
             that ensure our clients stay ahead of the curve.

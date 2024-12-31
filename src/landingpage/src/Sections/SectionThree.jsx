@@ -163,7 +163,7 @@ const SectionFive = () => {
             <div className="mt-2">
               <p className="font-normal text-[14px] text-[#BABCC6] leading-">
                 &quot;We were looking for a way to improve the security and
-                transparency of our financial transactions. BlueBillionaire.ai
+                transparency of our financial transactions. [your company name]
                 developed a bespoke blockchain solution that has revolutionized
                 our operations. We now experience faster transaction times,
                 increased security, and enhanced trust with our partners.&quot;
@@ -204,7 +204,7 @@ const SectionFive = () => {
             <div className="mt-2">
               <p className="font-normal text-[14px] text-[#BABCC6] leading-2">
                 &quot;We were looking for a way to improve the security and
-                transparency of our financial transactions. BlueBillionaire.ai
+                transparency of our financial transactions. [your company name]
                 developed a bespoke blockchain solution that has revolutionized
                 our operations. We now experience faster transaction times,
                 increased security, and enhanced trust with our partners.&quot;

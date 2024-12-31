@@ -46,7 +46,7 @@ const SectionEight = () => {
               <h4 className="pl-3">Oct 21, 2024</h4>
             </div>
             <p className="text-base font-medium mt-3">
-              Bluebillionaire.ai’s AI Tools Revolutionize Healthcare Management
+              [your company name] AI Tools Revolutionize Healthcare Management
             </p>
           </div>
           <div className="w-full flex justify-center mt-4">
@@ -54,12 +54,6 @@ const SectionEight = () => {
               className={
                 "border w-[90%] border-[#505362] text-white   rounded-lg px-[25px] py-[8px] font-normal text-base transition-transform duration-200 hover:scale-105"
               }
-              // onClick={() =>
-              //   window.open(
-              //     "https://hindustanbusinesstimes.com/2024/10/21/bluebillionaire-ais-ai-tools-revolutionize-healthcare-management/",
-              //     "_blank"
-              //   )
-              // }
             >
               Learn more
             </button>

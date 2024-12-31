@@ -74,7 +74,7 @@ const SectionTwo = () => {
             {"About us".toUpperCase()}
           </h3>
           <p className="text-xl font-medium text-white">
-            At BlueBillionaire.ai, we are passionately committed to delivering
+            At [your company name], we are passionately committed to delivering
             premium website design and exceptional services that exemplify our
             dedication to quality and excellence.
           </p>
@@ -113,7 +113,7 @@ const SectionTwo = () => {
 
         <div className="lg:w-1/2 w-full sm:px-0 px-5  sm:w-3/4 flex justify-end mt-4 lg:mt-0">
           <p className="text-base font-normal text-center lg:text-start text-[#BABCC6]">
-            At BlueBillionaire.ai, we are dedicated to transforming ideas into
+            At [your company name], we are dedicated to transforming ideas into
             exceptional digital experiences. Our diverse range of services spans
             game development, blockchain solutions, augmented and virtual
             reality (AR/VR), custom software development, IT infrastructure
@@ -153,11 +153,11 @@ const SectionTwo = () => {
             </h4>
           </div>
           <p className="text-base font-normal md:w-[91%] w-full sm:pl-[58px] text-[#BABCC6]">
-            Embark on a journey of unforgettable gaming experiences with
-            BlueBillionaire.ai, where our expert team of game developers brings
-            your visions to life. We specialize in crafting innovative games
-            that captivate and engage players across all platforms—from mobile
-            and console to PC.
+            Embark on a journey of unforgettable gaming experiences with [your
+            company name], where our expert team of game developers brings your
+            visions to life. We specialize in crafting innovative games that
+            captivate and engage players across all platforms—from mobile and
+            console to PC.
           </p>
           <div className="flex items-center mt-4">
             <img src={chinese} alt="" />
@@ -166,10 +166,10 @@ const SectionTwo = () => {
             </h4>
           </div>
           <p className="text-base font-normal  md:w-[91% w-full sm:pl-[58px] text-[#BABCC6]">
-            At BlueBillionaire.ai,we provide cutting-edge blockchain development
-            services that revolutionize the decentralised operation, security,
-            and transparency of your company&rsquo;s operations. Our expertise
-            includes developing secure smart contracts, cutting-edge
+            At [your company name],we provide cutting-edge blockchain
+            development services that revolutionize the decentralised operation,
+            security, and transparency of your company&rsquo;s operations. Our
+            expertise includes developing secure smart contracts, cutting-edge
             decentralised apps, and bespoke cryptocurrency solutions—all
             meticulously crafted to enable your company to take the fully
             leverage the groundbreaking possibilities of blockchain technology.

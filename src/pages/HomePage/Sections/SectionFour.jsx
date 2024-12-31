@@ -41,8 +41,8 @@ const SectionFour = () => {
           >
             Where Data Meets Innovation: Empowering Your Business with Smart
             Insights Imagine a world where data transcends mere numbers to
-            become the key that unlocks limitless possibilities. At
-            BlueBillionaire.ai, we don’t just process data—we unleash its
+            become the key that unlocks limitless possibilities. At [your
+            company name], we don’t just process data—we unleash its
             transformative power.
           </p>
           {/* <button className="mt-8">Get Started</button> */}

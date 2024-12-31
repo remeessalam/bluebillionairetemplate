@@ -23,7 +23,7 @@ const SectionThree = () => {
         <h2 className="text-[38px] text-center leading-[45px] mt-4 font-extrabold">
           Meet the team
           <br /> behind
-          <span className="text-[#F1D578]"> BlueBillionaire.ai</span>
+          <span className="text-[#F1D578]"> [your company name]</span>
         </h2>
       </div>
       <div className="flex md:flex-row flex-col gap-5 mt-12">
@@ -84,7 +84,7 @@ const SectionThree = () => {
             his future career path in AI. Visual Communication, a discipline
             that integrates elements of both technology and design, offered
             Ahmed insights into problem-solving through technology—a skillset
-            that became essential in his work as CEO of Bluebillionaire.ai.
+            that became essential in his work as CEO of [your company name].
           </li>
           <li>
             · According to Ahmed, the combination of these two fields helped him
@@ -101,18 +101,18 @@ const SectionThree = () => {
           </li>
           <li>
             · Healthcare management is undergoing a significant transformation,
-            and Bluebillionaire.ai, led by CEO Abuzar, is at the forefront of
+            and [your company name], led by CEO Abuzar, is at the forefront of
             this change. The company has developed innovative artificial
             intelligence (AI) tools designed to address the complexities of
             healthcare administration, specifically in managing patient data and
             improving operational efficiency.
           </li>
           <li>
-            · One of the most notable solutions Bluebillionaire.ai offers is its
-            automation software, which is used to streamline the management of
-            vast amounts of patient data. In many hospitals and healthcare
+            · One of the most notable solutions [your company name] offers is
+            its automation software, which is used to streamline the management
+            of vast amounts of patient data. In many hospitals and healthcare
             facilities, the manual handling of patient records has historically
-            led to inefficiencies and errors. With Bluebillionaire.ai’s
+            led to inefficiencies and errors. With [your company name]’s
             AI-driven automation, healthcare providers can now store, access,
             and manage patient data with greater accuracy and speed.
           </li>
@@ -124,8 +124,8 @@ const SectionThree = () => {
             to anticipate challenges and plan more effectively for the future.
           </li>
           <li>
-            · Abuzar’s focus on practical AI applications has enabled
-            Bluebillionaire.ai to bring meaningful innovations to the healthcare
+            · Abuzar’s focus on practical AI applications has enabled [your
+            company name] to bring meaningful innovations to the healthcare
             sector, positioning the company as a leader in AI-driven solutions
             for healthcare management.
           </li>

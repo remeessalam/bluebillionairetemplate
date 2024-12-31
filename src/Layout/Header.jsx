@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Logo from "../assets/svg/Logo.png";
+import Logo from "../assets/svg/logo1.png";
 import menuIcon from "../assets/svg/menuIcon.svg";
 import Button from "../component/Button/Button";
 import { Link } from "react-router-dom";
@@ -16,7 +16,7 @@ const Header = () => {
                 alt="Logo"
                 // width={142}
                 // height={72}
-                className="w-full h-full object-cover"
+                className="w-full h-full object-contain"
               />
             </Link>
           </div>

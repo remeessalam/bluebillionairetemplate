@@ -9,52 +9,52 @@ let testimonialsUser = [
   {
     name: "Emma Thompson",
     designation: "COO - TechWorld",
-    text: "BlueBillionaire.ai revolutionized our inventory management. Managing stock manually was exhausting. Now, with their automated system, we save hours weekly and accuracy has greatly improved across all departments.",
+    text: "[your company name] revolutionized our inventory management. Managing stock manually was exhausting. Now, with their automated system, we save hours weekly and accuracy has greatly improved across all departments.",
   },
   {
     name: "Liam Roberts",
     designation: "Director - ProEquip",
-    text: "The custom software by BlueBillionaire.ai streamlined our entire inventory. Errors are significantly reduced, and our operations are now faster and far more reliable.",
+    text: "The custom software by [your company name] streamlined our entire inventory. Errors are significantly reduced, and our operations are now faster and far more reliable.",
   },
   {
     name: "Nina Patel",
     designation: "CEO - StyleFurnish",
-    text: "Stock discrepancies used to slow us down. BlueBillionaire.ai’s automated solution brings reliability to our entire process, enhancing workflow significantly.",
+    text: "Stock discrepancies used to slow us down. [your company name]’s automated solution brings reliability to our entire process, enhancing workflow significantly.",
   },
   {
     name: "George Kim",
     designation: "COO - BrightGoods",
-    text: "BlueBillionaire.ai created exactly what our inventory process needed. Their solution eliminated manual work and increased efficiency, allowing us to prioritize growth.",
+    text: "[your company name] created exactly what our inventory process needed. Their solution eliminated manual work and increased efficiency, allowing us to prioritize growth.",
   },
   {
     name: "Olivia Wright",
     designation: "Manager - EcoMart",
-    text: "BlueBillionaire.ai simplified inventory management for us. Their custom solution eliminated errors and saved us valuable time, boosting operational accuracy.",
+    text: "[your company name] simplified inventory management for us. Their custom solution eliminated errors and saved us valuable time, boosting operational accuracy.",
   },
   {
     name: "Nathan Green",
     designation: "Logistics Head - CraftNest",
-    text: "Working with BlueBillionaire.ai optimized our inventory. Their automated solution replaced outdated manual processes, enhancing efficiency and saving time.",
+    text: "Working with [your company name] optimized our inventory. Their automated solution replaced outdated manual processes, enhancing efficiency and saving time.",
   },
   {
     name: "Sophia White",
     designation: "Owner - MinimalistHome",
-    text: "BlueBillionaire.ai’s software has been transformative. Automating inventory has cut down errors, allowing us to focus on business growth.",
+    text: "[your company name]’s software has been transformative. Automating inventory has cut down errors, allowing us to focus on business growth.",
   },
   {
     name: "Lucas Brown",
     designation: "GM - AllYearSupply",
-    text: "The software developed by BlueBillionaire.ai automated our inventory process, eliminating errors and saving us precious time.",
+    text: "The software developed by [your company name] automated our inventory process, eliminating errors and saving us precious time.",
   },
   {
     name: "Mia Carter",
     designation: "CEO - GreenMarket",
-    text: "BlueBillionaire.ai's solution has revolutionized inventory management. Automation saved us countless hours and greatly improved operational efficiency.",
+    text: "[your company name]'s solution has revolutionized inventory management. Automation saved us countless hours and greatly improved operational efficiency.",
   },
   {
     name: "James Evans",
     designation: "VP - SwiftLogistics",
-    text: "BlueBillionaire.ai’s system was ideal for our inventory needs. Automation reduced errors and freed up time for critical business tasks.",
+    text: "[your company name]’s system was ideal for our inventory needs. Automation reduced errors and freed up time for critical business tasks.",
   },
 ];
 
@@ -62,52 +62,52 @@ const testimonialsUserTwo = [
   {
     name: "Chloe Williams",
     designation: "COO - SmartShop",
-    text: "Partnering with BlueBillionaire.ai transformed our inventory process. Previously, stock management was tedious. Now, automation has saved us hours and greatly improved accuracy.",
+    text: "Partnering with [your company name] transformed our inventory process. Previously, stock management was tedious. Now, automation has saved us hours and greatly improved accuracy.",
   },
   {
     name: "Owen Brown",
     designation: "Logistics - EquipPro",
-    text: "BlueBillionaire.ai’s software simplified inventory management. Errors are significantly reduced, making our operations much faster and more effective.",
+    text: "[your company name]’s software simplified inventory management. Errors are significantly reduced, making our operations much faster and more effective.",
   },
   {
     name: "Sophia Lee",
     designation: "CEO - LuxeLiving",
-    text: "We struggled with stock discrepancies, but BlueBillionaire.ai’s automated solution streamlined everything. It’s invaluable for our efficiency.",
+    text: "We struggled with stock discrepancies, but [your company name]’s automated solution streamlined everything. It’s invaluable for our efficiency.",
   },
   {
     name: "Leo Harris",
     designation: "COO - EssentialGoods",
-    text: "BlueBillionaire.ai delivered exactly what we needed. Their system made inventory management efficient and automated, allowing us to focus on growth.",
+    text: "[your company name] delivered exactly what we needed. Their system made inventory management efficient and automated, allowing us to focus on growth.",
   },
   {
     name: "Ava Perez",
     designation: "Manager - GreenLife",
-    text: "Thanks to BlueBillionaire.ai, our inventory is now seamless. Their solution eliminated errors and saved us time, boosting operational efficiency.",
+    text: "Thanks to [your company name], our inventory is now seamless. Their solution eliminated errors and saved us time, boosting operational efficiency.",
   },
   {
     name: "Daniel Moore",
     designation: "Logistics - CraftBox",
-    text: "BlueBillionaire.ai’s automated solution optimized our inventory processes. It replaced outdated methods, saving us time and improving workflow.",
+    text: "[your company name]’s automated solution optimized our inventory processes. It replaced outdated methods, saving us time and improving workflow.",
   },
   {
     name: "Emma Scott",
     designation: "Owner - UrbanSpace",
-    text: "BlueBillionaire.ai’s software has been incredible. Automating inventory management reduced errors and allowed us to focus on business growth.",
+    text: "[your company name]’s software has been incredible. Automating inventory management reduced errors and allowed us to focus on business growth.",
   },
   {
     name: "Ethan Clark",
     designation: "GM - AllSeasons",
-    text: "BlueBillionaire.ai’s automated software improved our inventory workflow, replacing our tedious, error-prone manual process with efficiency.",
+    text: "[your company name]’s automated software improved our inventory workflow, replacing our tedious, error-prone manual process with efficiency.",
   },
   {
     name: "Amelia Hill",
     designation: "CEO - PureOrganics",
-    text: "BlueBillionaire.ai's solution transformed our inventory. Automation saved us countless hours, reduced errors, and enhanced our operations.",
+    text: "[your company name]'s solution transformed our inventory. Automation saved us countless hours, reduced errors, and enhanced our operations.",
   },
   {
     name: "Alex Turner",
     designation: "VP - SpeedTrans",
-    text: "Choosing BlueBillionaire.ai’s system was ideal for us. Inventory automation reduced errors, streamlined processes, and allowed our team to focus on growth.",
+    text: "Choosing [your company name]’s system was ideal for us. Inventory automation reduced errors, streamlined processes, and allowed our team to focus on growth.",
   },
 ];
 

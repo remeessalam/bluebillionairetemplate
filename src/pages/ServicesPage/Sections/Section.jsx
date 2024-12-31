@@ -25,13 +25,13 @@ const servicesDetails = [
     icon: servicesgameicon,
     heading: "Game Development",
     paragraph:
-      "Embark on a journey of unforgettable gaming experiences with BlueBillionaire.ai, where our expert team of game developers brings your visions to life. ",
+      "Embark on a journey of unforgettable gaming experiences with [your company name], where our expert team of game developers brings your visions to life. ",
   },
   {
     icon: blockchain,
     heading: "Blockchain lutions",
     paragraph:
-      "At BlueBillionaire.ai, we provide cutting-edge blockchain development services that revolutionize the security.",
+      "At [your company name], we provide cutting-edge blockchain development services that revolutionize the security.",
   },
   {
     icon: ar,
@@ -43,13 +43,13 @@ const servicesDetails = [
     icon: software,
     heading: "Custom Software Development",
     paragraph:
-      "Embark on a journey of unforgettable gaming experiences with BlueBillionaire.ai, where our expert team of game developers brings your visions to life.",
+      "Embark on a journey of unforgettable gaming experiences with [your company name], where our expert team of game developers brings your visions to life.",
   },
   {
     icon: it,
     heading: "IT Infrastructure Services",
     paragraph:
-      "Embark on a journey of unforgettable gaming experiences with BlueBillionaire.ai, where our expert team of game developers brings your visions to life. ",
+      "Embark on a journey of unforgettable gaming experiences with [your company name], where our expert team of game developers brings your visions to life. ",
   },
   {
     icon: sbc,

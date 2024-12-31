@@ -27,11 +27,8 @@ const AppLayout = () => {
 
         <Header />
         <div className="relative top-28 left-0 bg-contain bg-center bg-no-repeat">
-          <div className="fixed flex justify-center items-center opacity-20 -z-10 top-0 bg-contain bg-center bg-no-repeat w-screen  h-screen">
-            {/* <div
-              className="w-full h-full bg-center bg-no-repeat"
-              // style={{ backgroundImage: `url(${Logo})` }}
-            /> */}
+          {/* <div className="fixed flex justify-center items-center opacity-20 -z-10 top-0 bg-contain bg-center bg-no-repeat w-screen  h-screen">
+           
             <ReactPlayer
               url={bgvideo}
               loop={true}
@@ -41,7 +38,7 @@ const AppLayout = () => {
               height="100%"
               muted
             />
-          </div>
+          </div> */}
           <div className="overflow-hidden">
             <ScrollToTop />
             <Outlet />

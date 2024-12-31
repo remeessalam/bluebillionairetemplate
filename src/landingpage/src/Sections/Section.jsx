@@ -45,7 +45,7 @@ const Section = ({ page }) => {
       <div className="flex flex-col z-10 overflow-hidden">
         <div className="flex justify-center">
           <h3 className="text-[#F5F5F5] text-[10px] rounded-full border px-[18px] py-[10px] shadow-8xl shadow-white">
-            {"Welcome to BlueBillionaire.ai".toUpperCase()}
+            {"Welcome to [your company name]".toUpperCase()}
           </h3>
         </div>
         <div className="flex justify-center">
@@ -58,8 +58,8 @@ const Section = ({ page }) => {
         <div className="flex justify-center mt-[58px]">
           <p className="max-w-[718px] text-center px-2 sm:px-0 text-sm text-[#BABCC6]">
             {page === "web"
-              ? "Where Data Meets Innovation: Building Intelligent Websites Imagine a website where data fuels dynamic, personalized interactions, bringing your brand closer to your audience. At BlueBillionaire.ai, we go beyond traditional web development by unlocking the power of data to make each user’s experience truly transformative."
-              : "Where Data Meets Innovation: Transforming Mobile Experiences Imagine a world where mobile apps are more than tools—they’re intuitive, data-driven experiences tailored to every user’s needs. At BlueBillionaire.ai, we don’t just create apps; we leverage smart data insights to empower and enrich user engagement on every mobile platform."}
+              ? "Where Data Meets Innovation: Building Intelligent Websites Imagine a website where data fuels dynamic, personalized interactions, bringing your brand closer to your audience. At [your company name], we go beyond traditional web development by unlocking the power of data to make each user’s experience truly transformative."
+              : "Where Data Meets Innovation: Transforming Mobile Experiences Imagine a world where mobile apps are more than tools—they’re intuitive, data-driven experiences tailored to every user’s needs. At [your company name], we don’t just create apps; we leverage smart data insights to empower and enrich user engagement on every mobile platform."}
           </p>
         </div>
         <div className="flex justify-center h-[43px] gap-3 mt-[24px]">

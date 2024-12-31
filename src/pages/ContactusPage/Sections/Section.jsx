@@ -63,7 +63,7 @@ const Section = () => {
 
     const payload = {
       to: companyDetails.email,
-      subject: "You have a new message from Bluebillionaireai",
+      subject: "You have a new message from [your company name]",
       body: emailBody,
     };
 

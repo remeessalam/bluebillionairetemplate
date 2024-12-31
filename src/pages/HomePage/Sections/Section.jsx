@@ -53,7 +53,7 @@ const Section = () => {
       <div className="flex flex-col z-10 overflow-hidden mt-3 mb-4 sm:mb-0 sm:mt-2">
         <div className="flex justify-center mb-5 sm:mb-0">
           <h3 className="text-[#F5F5F5] text-[10px] rounded-full border px-[18px] py-[10px] shadow-8xl shadow-white">
-            {"Welcome to BlueBillionaire.ai".toUpperCase()}
+            {"Welcome to [your company name]".toUpperCase()}
           </h3>
         </div>
         <div
@@ -75,8 +75,8 @@ const Section = () => {
           <p className="max-w-[718px] text-center px-5 sm:px-0 text-base text-[#BABCC6]">
             Where Data Meets Innovation: Empowering Your Business with Smart
             Insights Imagine a world where data transcends mere numbers to
-            become the key that unlocks limitless possibilities. At
-            BlueBillionaire.ai, we don’t just process data—we unleash its
+            become the key that unlocks limitless possibilities. At [your
+            company name], we don’t just process data—we unleash its
             transformative power.
           </p>
         </div>
